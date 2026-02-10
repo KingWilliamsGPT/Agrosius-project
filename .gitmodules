@@ -1,0 +1,9 @@
+[submodule "agrosius"]
+	path = agrosius
+	url = git@github.com:KingWilliamsGPT/agrosius.git
+[submodule "sen_grp_2_backend"]
+	path = sen_grp_2_backend
+	url = git@github.com:KingWilliamsGPT/sen_grp_2_backend.git
+[submodule "SEN_GRP_2"]
+	path = SEN_GRP_2
+	url = git@github.com:KingWilliamsGPT/sen_grp_2_frontend.git
